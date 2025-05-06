@@ -904,7 +904,7 @@ Port 2222
 
 </br>
 
-Пишем вот эту хуету
+Пишем вот эту ***
 
 ```console
 [root@hq-srv ~]# semanage port -a -t ssh_port_t -p tcp 2222
@@ -1039,7 +1039,7 @@ ssh: connect to host 172.16.2.2 port 2222: Connection refused
 
 </br>
 
-> Примечание: дальше будет пиздец
+> Примечание: дальше будет ***
 
 </br>
 
@@ -3212,7 +3212,7 @@ traceroute to 192.168.33.10 (192.168.33.10), 30 hops max, 60 byte packets
 
 </br>
 
-это пиздец)
+это ***)
 
 </details>
 
